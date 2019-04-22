@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+=======
 
-# Correct color Game
+# MEMORY GAME PROJECT!
+>>>>>>> 663ff0c360fa09d175bfce1dd33d78c98ffba1fa
+
+# Guess the Correct color Game!
 
 
 Stream 2 - 
@@ -105,10 +110,9 @@ Ensure any links to sections in the website smooth scroll to the sections
 For general functionality:
 
 Mobile functionality:
-Ensure parts and sections change shape and layout based on resolution.
-Ensure navbar is replaced with a dropdown on smaller resolutions.
 
-I would also have liked to have done the tests mentioned above on both Safari and Opera to be able to cover all bases.
+Ensure parts and sections change shape and layout based on resolution.
+
 
 Deployment
 
@@ -118,23 +122,11 @@ I used the inbuilt git editor within Cloud9 to push my code to GitHub. I had rea
 
 Credits
 
-Smooth scroll JavaScript
-Taken from https://github.com/cferdinandi/smooth-scroll
+BootStrap for the Navbar 
 
-Content
+fontawesome for the icons on my social
 
-The background information for the band members was pulled from their respective wikipedia pages:
-Davy Jones
-Michael Nesmith
-Micky Dolenz
-Peter Tork
 
-The top 10 hits was taken from https://ultimateclassicrock.com/top-monkees-songs/
-
-Media
-
-Some of the photos used in this site were obtained from a GitHub Repository set up specifically for this project and some from the the monkees wiki page
-I could not find any video contents from the GithuB Repository, so i just used the version uploaded to YouTube instead.
 
 Acknowledgements
 
@@ -145,3 +137,8 @@ Friends and Family, I looked at all kinds of music sites. And also I  watched al
 
 I am very proud of what I have achieved, it was tough.
 
+
+=======
+Created my Ama Danso
+
+>>>>>>> 663ff0c360fa09d175bfce1dd33d78c98ffba1fa
