@@ -21,7 +21,7 @@ Just create a simple game.
 
 Structure
 
-No wireframes or mockups were created during the design process,the game is very easy to play you guess and if it correct color all the squares flashes up including the top navbar.
+No wireframes or mockups were created during the design process,the game is very easy to play you guess the correct and if it correct color all the squares flashes up including the top navbar.
 
 Features
 
